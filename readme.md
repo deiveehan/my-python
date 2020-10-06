@@ -1,6 +1,6 @@
 # Python
 
-This git repo contains some basic samples on getting started with Python.
+This git repo contains some basic samples that you can use to get started on Python.
 
 ## Get started
 Install python in your local using the below site:
