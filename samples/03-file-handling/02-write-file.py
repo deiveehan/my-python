@@ -1,0 +1,6 @@
+f1 = open("demo-file.txt", "a")
+f1.write(" ------- Karate class students ------- \n")
+f1.write(" - Sanjay \n ")
+f1.write(" - Srinivaslu \n ")
+f1.write(" - Deivee \n ")
+f1.close()

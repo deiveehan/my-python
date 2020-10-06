@@ -1,0 +1,13 @@
+This is a demo file to demonstrate the file handling features in Python.
+Feel free to edit, remove or perform any activiities on this file. I dont care.
+Following are the Students of Karositaon Middle school
+- Sam
+- Imran
+- Vanitha
+- Sujay
+- Niranjana
+ ------- Karate class students ------- 
+ - Sanjay 
+  - Srinivaslu 
+  - Deivee 
+ 

@@ -1,0 +1,3 @@
+
+namevar = input('Enter your name: ')
+print(namevar)
