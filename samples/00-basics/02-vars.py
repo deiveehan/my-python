@@ -10,8 +10,8 @@ print(doublevar)
 print(singlevar)
 
 # String functions
-firstName = "Deiveehan"
-lastName = "Nallazhagappan"
+firstName = "Keerthana"
+lastName = "Deiveehan"
 print("First char", firstName[0])
 print("Length", len(firstName))
 print(firstName.lower())
