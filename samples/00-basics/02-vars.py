@@ -8,7 +8,6 @@ doublevar = "Sam said, \" That's a cool bike \""
 singlevar = 'Sam said, "That\'s a great bike "'
 print(doublevar)
 print(singlevar)
-
 # String functions
 firstName = "Keerthana"
 lastName = "Deiveehan"
