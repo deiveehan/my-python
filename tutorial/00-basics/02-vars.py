@@ -11,7 +11,8 @@ print(singlevar)
 # String functions
 firstName = "Keerthana"
 lastName = "Deiveehan"
-print("First char", firstName[0])
+print("Fourth char", firstName[3])
+print("Length", len(firstName))
 print("Length", len(firstName))
 print(firstName.lower())
 print(firstName.upper())

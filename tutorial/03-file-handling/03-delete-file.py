@@ -1,6 +1,6 @@
 import os
 
-fileName = "test-file-tobe-deleted.txt"
+fileName = "keerthana_grades.txt"
 if(os.path.exists(fileName)):
     os.remove(fileName)
     print("file deleted !!")

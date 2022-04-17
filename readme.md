@@ -13,29 +13,29 @@ python3 <pythonprogram.py>
 ```
 
 ## Samples:
-[Basics](samples/00-basics)
+[Basics](tutorial/00-basics)
 - Variables
 - Handling inputs
 - Conditional statements
 - Loops: for/ while
 - Exception handling
 
-[Functions](samples/01-functions)
+[Functions](tutorial/01-functions)
 - Functions
 - Lamda
 
-[Datastructures](samples/02-datastructures)
+[Datastructures](tutorial/02-datastructures)
 - Arrays
 - Sets
 - Tuples
 - Dictionary
 
-[File handling](samples/03-file-handling)
+[File handling](tutorial/03-file-handling)
 - Reading from a file
 - Writing to a file
 - Deleting a file
 
-[Modules](samples/04-modules)
+[Modules](tutorial/04-modules)
 - Using built-in module
 - Creating a custom module and using it. 
 - Utilizing an external module. 
