@@ -1,7 +1,7 @@
 x = lambda a : a + 10
 print(x(5))
 
-x = lambda a, b, c : a + b + a
+x = lambda a, b, c : a + b + c
 print(x(5,33, 54))
 
 
@@ -15,3 +15,5 @@ mytripler = myfunc(3)
 print(mydoubler(11))
 print(mytripler(11))
 
+hello = lambda a, b: a + b
+print(hello(1,3))

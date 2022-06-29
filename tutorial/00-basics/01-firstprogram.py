@@ -1,1 +1,1 @@
-print("I love python program")
+print("I like python")

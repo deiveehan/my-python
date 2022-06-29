@@ -6,3 +6,8 @@ print('{0:10} | {1:10} | {2:<10}'.format('Name',' Location', 'Mobile number'))
 print('{0:10} | {1:10} | {2:<10}'.format('Samson','US', 9399399333))
 print('{0:10} | {1:10} | {2:<10}'.format('Sujay','India', 567399333))
 
+
+
+birth_year = input("Enter your birth year: ")
+age = (2022 - int(birth_year))
+print(age) 
